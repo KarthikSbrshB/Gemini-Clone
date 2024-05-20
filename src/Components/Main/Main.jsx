@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import './Main.css'
-import { assets } from '../../assets/assets'
-import { Context } from '../../context/Context'
+import { assets } from '../../../../gemini-clone/src/assets/assets'
+import { Context } from '../../../../gemini-clone/src/context/Context'
 
 const Main = () => {
 
